@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527186753 source:d:\studia\architektura systemów\optymalne zastêpowanie stron\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+

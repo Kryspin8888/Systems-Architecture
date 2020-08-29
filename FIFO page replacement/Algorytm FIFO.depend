@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527182729 source:d:\studia\architektura systemów\algorytm fifo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

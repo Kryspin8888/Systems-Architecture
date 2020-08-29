@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525985128 source:d:\studia\architektura systemów\algorytm bliŸniaków\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+
